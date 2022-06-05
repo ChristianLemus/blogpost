@@ -7,6 +7,17 @@ body {
   padding: 0;
 }
 
+header {
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+  font-size: 24px;
+  text-align: left;
+}
+
 .container {
   width: 80%;
   padding: 1em;
